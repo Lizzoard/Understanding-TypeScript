@@ -31,3 +31,18 @@ let user: {
     id: 5
   }
 }
+
+let val: {} = 'some text';
+
+const someObj = {
+  name: 'Max'
+}
+
+let data: Record<string, number | string>; 
+
+data = '';
+
+data = {
+  entry1: 1,
+  entry2: 'some string'
+}
